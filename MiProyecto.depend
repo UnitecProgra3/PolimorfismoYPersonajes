@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1414001531 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/MiProyecto/main.cpp
+	<iostream>
+	"Personaje.h"
+
+1414002116 /home/turupawn/Projects/Codeblocks/Clases/Progra3/MiProyecto/Personaje.h
+	<iostream>
+
+1414001125 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/MiProyecto/Personaje.cpp
+	"Personaje.h"
+
