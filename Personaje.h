@@ -7,10 +7,13 @@ using namespace std;
 class Personaje
 {
     public:
+        string tipo;
         int ataque;
         int vida;
+        Personaje();
         Personaje(int ataque, int vida);
         void imprimir();
+        virtual void poderEspecial();
         virtual ~Personaje();
     protected:
     private:

@@ -1,11 +1,32 @@
 # depslib dependency file v1.0
-1414001531 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/MiProyecto/main.cpp
+1414088140 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/MiProyecto/main.cpp
 	<iostream>
+	<list>
+	"Guerrero.h"
+	"Mago.h"
+	"Arquero.h"
+
+1414088517 /home/turupawn/Projects/Codeblocks/Clases/Progra3/MiProyecto/Personaje.h
+	<iostream>
+
+1414087862 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/MiProyecto/Personaje.cpp
 	"Personaje.h"
 
-1414002116 /home/turupawn/Projects/Codeblocks/Clases/Progra3/MiProyecto/Personaje.h
-	<iostream>
+1414087274 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/MiProyecto/Guerrero.cpp
+	"Guerrero.h"
 
-1414001125 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/MiProyecto/Personaje.cpp
+1414086681 /home/turupawn/Projects/Codeblocks/Clases/Progra3/MiProyecto/Guerrero.h
+	"Personaje.h"
+
+1414087273 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/MiProyecto/Mago.cpp
+	"Mago.h"
+
+1414086730 /home/turupawn/Projects/Codeblocks/Clases/Progra3/MiProyecto/Mago.h
+	"Personaje.h"
+
+1414088202 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/MiProyecto/Arquero.cpp
+	"Arquero.h"
+
+1414088549 /home/turupawn/Projects/Codeblocks/Clases/Progra3/MiProyecto/Arquero.h
 	"Personaje.h"
 
